@@ -1,4 +1,5 @@
-# [7 Days of Code] Python usando Pandas - CIência de Dados
+# [7 Days of Code] Python usando Pandas
+# Ciência de Dados
 
 
 | :placard: Vitrine.DS |     |
